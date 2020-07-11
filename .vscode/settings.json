@@ -1,0 +1,8 @@
+{
+      "editor.formatOnPaste": true,
+      "editor.formatOnSave": true,
+      "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": false,
+      "editor.formatOnType": true,
+      "editor.tabSize": 8,
+      "prettier.tabWidth": 4
+}
